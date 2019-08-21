@@ -25,7 +25,7 @@ _Washington Student Achievement Council, Olympia WA, Oct 2018 - Sept 2019_
 University of Washington, Seattle WA  
 Pi Alpha Alpha Honor Society  
 
-**Bachelor of Arts, _International Studies 2010_**  
+**Bachelor of Arts, _Jackson School of International Studies 2010_**  
 University of Washington, Seattle WA  
 
 ***
@@ -120,12 +120,12 @@ _Advisor: Angelina Godoy, PhD, Jackson School of International Studies, Universi
 **College and Career Readiness Specialist**  
 _Alderwood Middle School, Lynnwood WA, Dec 2012 - Oct 2018_      
 
-* Organized the biannual school-wide Career Day event for 830 students, including 
-  - recruitment of 67 presenters, management of student workshop sign-up, 
-  - development of a scheduling program in R that places students into workshops based on student choice and matches underrepresented students with presenters who are underrepresented in their field,
-  - management and distribution of individual student Career Day schedules, including the development and execution of a for loop in R that renders an unique PDF for each student,
-  - coordination of teacher workshop supervision and room assignment,
-  - compilation of student workshop reflections to share with school staff and presenters  
+* Organized the biannual school-wide Career Day event for 830 students
+    - recruited 67 presenters and managed of student workshop sign-up
+    - develope a scheduling program in R that placed students into workshops based on student choice and matched underrepresented students with presenters who are underrepresented in their field
+    - managed and distributed of individual student Career Day schedules
+    - coordinated of teacher workshop supervision and room assignment
+    - compiled student workshop reflections to share with school staff and presenters
 * Served as College Bound Principal Designee to facilitate for eligible students to complete the College Bound Scholarship application, earning state recognition as a Gold Star school.     
 * Organized 130 students annually to attend the La Chispa Leadership Conference, the Students of Color Career Conference, and the Expanding Your Horizons Conference.  
 * Served as Naviance Site Manager to coordinate school-wide completion of college/career planning tasks.  
