@@ -59,7 +59,7 @@ Evans School Chapter of the National Honor Society for Public Affairs and Admini
 **Calculus with Analytic Geometry I, II & III**, Spring Quarter 2006, Winter Quarter 2010, Autumn Quarter 2015  
 **Introduction Probability & Statistics**, Spring Quarter 2010  
 **General Physics I & II**, Summer Quarter 2009 and Autumn Quarter 2009  
-**General Chemistry I, II & III**, Autum Quarter 2005, Winter Quarter 2006, Spring Quarter 2006  
+**General Chemistry I, II & III**, Autumn Quarter 2005, Winter Quarter 2006, Spring Quarter 2006  
 **Organic Chemistry I, II & III**, Autumn Quarter 2008, Winter Quarter 2009, Spring Quarter 2009  
 **Introductory Biology I, II & III**, Winter Quarter 2009, Spring Quarter 2009, Summer Quarter 2009  
 **Foundations in Molecular Cell Biology**, Summer Quarter 2009  
