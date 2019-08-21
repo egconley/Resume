@@ -8,7 +8,7 @@ conley.eg@gmail.com, (206) 856-0299, [LinkedIn Profile](https://www.linkedin.com
 English and Spanish - _professional working proficiency_
 
 ### Programming Languages
-SAS, SQL, R, STATA
+SAS, SQL, R, STATA - _professional working proficiency_
 
 ***
 
