@@ -12,7 +12,7 @@ SAS, SQL, R, STATA
 
 ***
 
-### Professional Data Analyst Experience
+### Data Experience
 **Data Analyst**  
 _Washington Student Achievement Council, Olympia WA, Oct 2018 - Sept 2019_    
 
