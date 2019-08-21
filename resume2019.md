@@ -16,11 +16,11 @@ SAS, SQL, R, STATA - _professional working proficiency_
 **Data Analyst**  
 _Washington Student Achievement Council, Olympia WA, Oct 2018 - Sept 2019_    
 
-*  Programmed reports using SAS and SQL Procedure in SAS to extract and deliver financial aid program data to State Financial Aid and College Access & Support.    
-*  Worked collaboratively with the Data Engineer in IT to develop and verify SQL queries to extract OSPI and GEAR UP program data for annual GEAR UP program reporting.  
-*  Performed data analysis in SAS to generate descriptive statistics on state and county-level educational attainment using the American Community Survey.  
-* Consulted for the Adult Reengagement Team to develop a crosswalk linking occupations to labor market information, educational programs, career clusters, and career pathways for an online career exploration tool.  
-* Conducted a literature review on the use of behavioral economics principles in FAFSA completion campaigns.  
+* Programmed reports using SAS and SQL Procedure in SAS to extract and deliver financial aid program data to State Financial Aid and College Access & Support. 
+* Worked collaboratively with the Data Engineer in IT to develop and verify SQL queries to extract Office of Superintendent of Public Instruction and Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP) data for annual GEAR UP grant reporting.
+* Performed data analysis in SAS to generate descriptive statistics on state and county-level educational attainment using the American Community Survey.
+* Consulted for the Adult Reengagement Team to develop a crosswalk linking occupations to labor market information, educational programs, career clusters, and career pathways for a career exploration tool.
+* Conducted a literature review on the use of behavioral economics principles in FAFSA completion campaigns.
 
 ### Education
 **Master of Public Administration, _Evans School of Public Affairs 2017_**  
