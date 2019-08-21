@@ -55,15 +55,6 @@ Evans School Chapter of the National Honor Society for Public Affairs and Admini
 
 ***
 
-### Coursework in Education and Social Policy
-**Race and Public Policy**, Spring Quarter 2017  
-**Critical Race Theory**, Winter Quarter 2017  
-**Education and Workforce Policy**, Autumn Quarter 2017  
-**Asset Building for Low-Income Families**, Winter Quarter 2016   
-**Labor Market Discrimination**, Autumn Quarter 2015  
-
-***
-
 ### Coursework in Math and Science
 **Calculus with Analytic Geometry I, II & III**, Spring Quarter 2006, Winter Quarter 2010, Autumn Quarter 2015  
 **Introduction Probability & Statistics**, Spring Quarter 2010  
@@ -73,6 +64,13 @@ Evans School Chapter of the National Honor Society for Public Affairs and Admini
 **Introductory Biology I, II & III**, Winter Quarter 2009, Spring Quarter 2009, Summer Quarter 2009  
 **Foundations in Molecular Cell Biology**, Summer Quarter 2009  
 **Introduction to Biochemistry I & II**, Autumn Quarter 2009 and Winter Quarter 2010  
+
+***
+
+### Data Science Certificates
+**Intermediate R Course**, DataCamp, July 2017  
+**Introduction to R**, DataCamp, July 2017  
+**Introduction to SQL for Data Science Course**, DataCamp, July 2017
 
 ***
 
@@ -129,11 +127,11 @@ Ellen Conley <conley.eg@gmail.com>
 to me
 
 * Organized the biannual school-wide Career Day event for 830 students, including 
-- recruitment of 67 presenters, management of student workshop sign-up, 
-- development of a scheduling program in R that places students into workshops based on student choice and matches underrepresented students with presenters who are underrepresented in their field,
-- management and distribution of individual student Career Day schedules, including the development and execution of a for loop in R that renders an unique PDF for each student,
-- coordination of teacher workshop supervision and room assignment,
-- compilation of student workshop reflections to share with school staff and presenters  
+  - recruitment of 67 presenters, management of student workshop sign-up, 
+  - development of a scheduling program in R that places students into workshops based on student choice and matches underrepresented students with presenters who are underrepresented in their field,
+  - management and distribution of individual student Career Day schedules, including the development and execution of a for loop in R that renders an unique PDF for each student,
+  - coordination of teacher workshop supervision and room assignment,
+  - compilation of student workshop reflections to share with school staff and presenters  
 * Served as College Bound Principal Designee to facilitate for eligible students to complete the College Bound Scholarship application, earning state recognition as a Gold Star school.  
 * Organized 130 students annually to attend the La Chispa Leadership Conference, the Students of Color Career Conference, and the Expanding Your Horizons Conference.  
 * Served as Naviance Site Manager to coordinate school-wide completion of college/career planning tasks.  
@@ -149,32 +147,5 @@ _El Centro de la Raza, Seattle WA, Sept 2011 – June 2013_
 **Americorps – Assistant Coordinator: Academic Support**  
 _Sequoia High School, Redwood City CA, Sept 2010 – July 2011_  
 
-* Managed academic support for a caseload of 20 at-risk students working toward on-time graduation.
-
-***
-
-### Leadership
-**Undergraduate Director**  
-_Al Shifa Community Clinic, Seattle WA, June 2008 – May 2009_  
-Student-run medical clinic serving the Hispanic day laborer population at Casa Latina  
-
-* Coordinated volunteers for clinic  
-* Managed undergraduate applications  
-* Organized trainings and workshops  
-* Served as a liaison between the Board of Directors and the undergraduate team  
-
-***
-
-### Data Science Certificates
-**Intermediate R Course**, DataCamp, July 2017  
-**Introduction to R**, DataCamp, July 2017  
-**Introduction to SQL for Data Science Course**, DataCamp, July 2017
-
-***
-
-### Social Justice Trainings
-**Xican@ Institute for Teaching and Organizing**, _Summer Social Justice Institute_, facilitated by Jose Gonzalez, MA and Curtis Acosta, PhD. August, 2016  
-**Black Prisoners Caucus 2015 Summit**, _Washington State Reformatory at Monroe_, November, 2015  
-**Cultures Connecting**, _Summer Social Justice Institute_, facilitated by Caprice Hollins, PsyD and Ilsa Govan, MA. August, 2015  
-**Undoing Institutional Racism Training**, _People’s Institute Northwest_, facilitated by Dustin Washington and Mary Flowers. April, 2015  
+* Managed academic support for a caseload of 20 at-risk students working toward on-time graduation.  
 
