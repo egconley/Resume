@@ -1,5 +1,6 @@
+
 ### **Ellen Conley**
-Seattle, Wasington  
+Seattle, Wasington 
 conley.eg@gmail.com, (206) 856-0299, [LinkedIn Profile](https://www.linkedin.com/in/ellenconley/)  
 
 ***
