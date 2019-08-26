@@ -70,13 +70,6 @@ Evans School Chapter of the National Honor Society for Public Affairs and Admini
 
 ***
 
-### Data Science Certificates
-**Intermediate R Course**, DataCamp, July 2017  
-**Introduction to R**, DataCamp, July 2017  
-**Introduction to SQL for Data Science Course**, DataCamp, July 2017
-
-***
-
 ### Policy Research Experience
 **Masters Capstone: Snapshot of the Seattle Minimum Wage Ordinance**  
 _Advisor: Jacob Vigdor, PhD, Evans School of Public Policy and Governance, University of Washington, Seattle WA – Winter Quarter 2016_  
