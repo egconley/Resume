@@ -126,7 +126,7 @@ _Alderwood Middle School, Lynnwood WA, Dec 2012 - Oct 2018_
 * Served as College Bound Principal Designee to facilitate for eligible students to complete the College Bound Scholarship application, earning state recognition as a Gold Star school.     
 * Organized 130 students annually to attend the La Chispa Leadership Conference, the Students of Color Career Conference, and the Expanding Your Horizons Conference.  
 * Served as Naviance Site Manager to coordinate school-wide completion of college/career planning tasks.  
-* Collected and analyze data on equity in student academic and state test performance.  
+* Collected and analyzed data on equity in student academic and state test performance.  
 
 **Americorps – College Readiness Coach**  
 _El Centro de la Raza, Seattle WA, Sept 2011 – June 2013_  
