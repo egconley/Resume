@@ -119,7 +119,7 @@ _Alderwood Middle School, Lynnwood WA, Dec 2012 - Oct 2018_
 
 * Organized the biannual school-wide Career Day event for 830 students
     - recruited 67 presenters and managed of student workshop sign-up
-    - develope a scheduling program in R that placed students into workshops based on student choice and matched underrepresented students with presenters who are underrepresented in their field
+    - developed a scheduling program in R that placed students into workshops based on student choice and matched underrepresented students with presenters who are underrepresented in their field
     - managed and distributed of individual student Career Day schedules
     - coordinated of teacher workshop supervision and room assignment
     - compiled student workshop reflections to share with school staff and presenters
