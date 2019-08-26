@@ -11,6 +11,8 @@ English and Spanish - _professional working proficiency_
 ### Programming Languages
 SAS, SQL, R, STATA - _professional working proficiency_
 
+SAS Certified Specialist: Base Programming Using SAS 9.4  
+
 ***
 
 ### Data Experience
